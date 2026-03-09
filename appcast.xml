@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Mimic</title>
+    <link>https://raw.githubusercontent.com/georgealexiou/mimic-releases/main/appcast.xml</link>
+    <description>Mimic app changelog</description>
+    <language>en</language>
+
+    <item>
+      <title>Version 0.1</title>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/georgealexiou/mimic-releases/releases/download/v0.1/Mimic.zip"
+        sparkle:edSignature="SIGNATURE_FROM_SIGN_UPDATE"
+        length="0"
+        type="application/octet-stream"
+      />
+    </item>
+
+  </channel>
+</rss>
