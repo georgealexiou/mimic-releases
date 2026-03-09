@@ -13,9 +13,9 @@
       <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/georgealexiou/mimic-releases/releases/download/v0.1/Mimic.zip"
-        sparkle:edSignature="SIGNATURE_FROM_SIGN_UPDATE"
-        length="0"
+        url="https://github.com/georgealexiou/mimic-releases/releases/download/v0.1/mimic.zip"
+        sparkle:edSignature="olhHI1qIZzcGHE52nyFtoP9SddLx+d7CcLqMGUYa41FvawzZpRmGu6WT+qPBh2OFge/7Jb7yMjddheaNVpdhCA=="
+        length="5987761"
         type="application/octet-stream"
       />
     </item>
