@@ -8,14 +8,15 @@
 
     <item>
       <title>Version 0.1.1</title>
-      <pubDate>Wed, 11 Mar 2026 00:12:44 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 00:39:03 +0000</pubDate>
       <sparkle:version>2</sparkle:version>
       <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/georgealexiou/mimic-releases/releases/tag/v0.1.1</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/georgealexiou/mimic-releases/releases/download/v0.1.1/mimic.zip"
-        sparkle:edSignature="k2y0+dF3v4DgDYDl2N1IdMJr/1FxoFoiqRx4Zyw0ovjDtZGLW9fd51Pg0GKAdj36Vk+63npph03Wq5r80TEWDg=="
-        length="3986691"
+        sparkle:edSignature="BfWC8H0KR8Vo1dGRx7Ff4XedbR1IuO61oyJNYb9k0R6GMrSzleoT7wJUM/rNX1XHHv5sNwmUGTRsPe/JEgemCA=="
+        length="4004113"
         type="application/octet-stream"
       />
     </item>
