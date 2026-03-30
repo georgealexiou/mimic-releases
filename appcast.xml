@@ -7,11 +7,26 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.3.2</title>
+      <pubDate>Mon, 30 Mar 2026 22:29:48 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/georgealexiou/mimic-releases/releases/tag/v0.3.2</sparkle:releaseNotesLink>
+      <enclosure
+        url="https://github.com/georgealexiou/mimic-releases/releases/download/v0.3.2/mimic.zip"
+        sparkle:edSignature="ilvtIBEmZyBVcuw7Cg8zJpj5WYUNHpHMNviNut/264lMyelp+Zjz61XP353GpwS3lVWrLIdprcUgAGTUOfCiAQ=="
+        length="4093215"
+        type="application/octet-stream"
+      />
+    </item>
+
+    <item>
       <title>Version 0.3.1</title>
       <pubDate>Wed, 18 Mar 2026 08:07:15 +0000</pubDate>
       <sparkle:version>5</sparkle:version>
       <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://github.com/georgealexiou/mimic-releases/releases/tag/v0.3.1</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/georgealexiou/mimic-releases/releases/download/v0.3.1/mimic.zip"
