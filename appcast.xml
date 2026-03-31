@@ -11,7 +11,7 @@
       <pubDate>Tue, 31 Mar 2026 22:40:18 +0000</pubDate>
       <sparkle:version>7</sparkle:version>
       <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://github.com/georgealexiou/mimic-releases/releases/tag/v0.3.3</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/georgealexiou/mimic-releases/releases/download/v0.3.3/mimic.zip"
