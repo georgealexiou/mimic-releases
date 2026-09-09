@@ -11,7 +11,7 @@
       <pubDate>Wed, 09 Sep 2026 21:45:14 +0000</pubDate>
       <sparkle:version>9</sparkle:version>
       <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>MACOSX_DEPLOYMENT_TARGET</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://github.com/georgealexiou/mimic-releases/releases/tag/v0.3.5</sparkle:releaseNotesLink>
       <enclosure
         url="https://github.com/georgealexiou/mimic-releases/releases/download/v0.3.5/mimic.zip"
